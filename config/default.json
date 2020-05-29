@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb://abc:123456qwe@ds159204.mlab.com:59204/abc",
+    "mongoURI": "mongodb://heroku_7kdnvsgj:3nqks8ko010smn78j272md1dre@ds159204.mlab.com:59204/heroku_7kdnvsgj",
     "jwtSecret": "secret",
     "githubToken": "<yoursecrectaccesstoken>"
 }
