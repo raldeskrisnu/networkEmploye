@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://abc:123456qwe@cluster-zfcbk.mongodb.net/myDB?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubToken": "<yoursecrectaccesstoken>"
+}
